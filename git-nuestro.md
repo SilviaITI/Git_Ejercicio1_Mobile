@@ -1,4 +1,5 @@
 Git nuestro
+<<<<<<< HEAD
 
 *Git* nuestro que estás en los repos Comprimidos sean tus *commits* Venga 
 a nosotros tu *log*
@@ -8,3 +9,4 @@ Como también perdonamos los de otros geeks No nos dejes caer en *detached
 HEAD*
 y líbranos de *SVN*
 `git commit --amend`
+
